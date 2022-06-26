@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="519a277b-64e2-4b6b-8cbd-abf0345855b5" name="Changes" comment="" />
+    <list default="true" id="519a277b-64e2-4b6b-8cbd-abf0345855b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S01T05N02Ex01AlbertMartin/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S01T05N02Ex01AlbertMartin/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S01T05N02Ex01AlbertMartin/AppProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S01T05N02Ex01AlbertMartin/AppProperties.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,19 +18,48 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2AqV8emVTVZotmOYXbqcXjBWjKV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/albert/Escritorio/IdeaProjects/ITAcademy Sprint 1/Nivell 2/S01T05N02AlbertMartin&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="S01T05N02Ex01AlbertMartin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S01T05N02Ex01AlbertMartin.AppProperties" />
+      <module name="S01T05N02AlbertMartin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="S01T05N02Ex01AlbertMartin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppProperties" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,7 +68,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655736946328</updated>
+      <workItem from="1655736947709" duration="1482000" />
+      <workItem from="1655791637774" duration="4582000" />
+      <workItem from="1656066356086" duration="125000" />
+      <workItem from="1656138348919" duration="343000" />
+      <workItem from="1656257890866" duration="115000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -6,16 +6,15 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
-import java.util.Scanner;
 
-public class AppN01 {
+public class App {
 
     public static void main(String[] args) throws IOException {
 
-    //Demanem el directori que cal llistar i creem l'arxiu de text que, en aquest cas, es guardarà en el mateix package
-    //a on està la classe principal.
-        String directoryPath = getDirectoryPath();
-        FileWriter fileWriter = new FileWriter("directoryList.txt");
+    //En aquest cas, el path del directori que cal llistar i l'arxiu de text a on anirà aquesta informació sòn paràmetres
+    //que venen definits en l'arxiu de configuració App.propierties.
+        String directoryPath = "directoryPath";
+        FileWriter fileWriter = new FileWriter("filePath");
         BufferedWriter bufferedWriter= new BufferedWriter(fileWriter);
 
      //Afegim recursivament les dades dels arxius del directori en el fitxer directoryList.txt incloent tots els nivells
@@ -53,11 +52,5 @@ public class AppN01 {
                 }
             }
         }
-    }
-
-    private static String getDirectoryPath() {
-        System.out.println("Escriu la ruta del directori que vols llistar");
-        Scanner sc = new Scanner(System.in);
-        return sc.nextLine();
     }
 }
